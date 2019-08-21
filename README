@@ -1,0 +1,3 @@
+in case the script is not executable, run 'chmod +x runme.sh'
+
+The generating of the lookup table will be executed once and the following lookup action took O(k) time, k = len(test_arr)
